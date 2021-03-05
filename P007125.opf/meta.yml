@@ -1,16 +1,17 @@
-id: opecha:P007125
+id: P007125
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W30308
   title: སློབ་གྲྭ་ཆུང་འབྲིང་གི་སློབ་མའི་རྩོམ་ཡིག་སྦྱོང་བའི་མྱུར་ལམ
-  volume:
+  author: ''
+  volumes:
     e139a1efa0be4406a14e230ccac4a768:
       image_group_id: I1PD30309
       title: Volume 1 of slob grwa chung 'bring gi slob ma'i rtsom yig sbyong ba'i
         myur lam
       volume_number: 1
       total_pages: 168
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: སློབ་གྲྭ་ཆུང་འབྲིང་གི་སློབ་མའི་རྩོམ་ཡིག་སྦྱོང་བའི་མྱུར་ལམ
   author: ''
