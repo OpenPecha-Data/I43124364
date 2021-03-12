@@ -5,11 +5,13 @@ source_metadata:
   title: སློབ་གྲྭ་ཆུང་འབྲིང་གི་སློབ་མའི་རྩོམ་ཡིག་སྦྱོང་བའི་མྱུར་ལམ
   author: ''
   volumes:
-    e672f163f05a4cecb80ca988cb7ed3ba:
+    e139a1efa0be4406a14e230ccac4a768:
       image_group_id: I1PD30309
-      title: ''
+      title: Volume 1 of slob grwa chung 'bring gi slob ma'i rtsom yig sbyong ba'i
+        myur lam
       volume_number: 1
       total_pages: 168
+      base_file: v001.txt
 ebook_metadata:
   title: སློབ་གྲྭ་ཆུང་འབྲིང་གི་སློབ་མའི་རྩོམ་ཡིག་སྦྱོང་བའི་མྱུར་ལམ
   author: ''
